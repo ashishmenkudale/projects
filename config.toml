@@ -1,1 +1,13 @@
+baseURL = "https://www.ashishmenkudale.com/"
+footnoteReturnLinkContents = "↩"
+title = "ashish explores"
 
+[params]
+  AuthorName = "Ashish Menkudale"
+  GitHubUser = "ashishmenkudale"
+  ListOfFoo = ["foo1", "foo2"]
+  SidebarRecentLimit = 5
+  Subtitle = "subtitle!"
+
+[permalinks]
+  posts = "/:year/:month/:title/"
